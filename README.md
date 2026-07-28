@@ -81,4 +81,4 @@ P_n/
 
 ---
 
-从 [`Plan/P_x/P_1/P1-1.md`](StudyPlan/P_x/P_1/P1-1.md) 开始即可。
+从 [`Plan/P_x/P_1/P1-1.md`](Plan/P_x/P_1/P1-1.md) 开始即可。
