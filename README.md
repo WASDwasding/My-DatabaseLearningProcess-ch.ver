@@ -1,6 +1,6 @@
 # My-DatabaseLearningProcess-ch.ver
 
-个人学习仓库：一边用教学模式讲义把概念吃透，一边在 **BusTub** 里把抽象落成可运行的代码。
+个人学习仓库：一边用教学模式讲义把概念吃透，一边把抽象落成可运行的代码（参考bustub）。
 
 ## 仓库结构
 
@@ -9,13 +9,13 @@
 ├── Plan/          # 25 讲教学模式学习计划
 │   ├── plan.md         # 课程目录总览
 │   ├── P_x/            # P1–P25 讲义
-└── bustub/             # CMU BusTub 教学型数据库
+└── Code/          # 讲义同步练习代码
 ```
 
 | 目录 | 作用 |
 |------|------|
 | `Plan/` | 导论课拆成可跟学的中文讲义，并映射到 BusTub 模块 |
-| `bustub/` | 实现缓冲池、索引、执行器、并发、恢复等内核组件的练习场 |
+| `Code/` | 实现缓冲池、索引、执行器、并发、恢复等内核组件的练习场 |
 
 ## Plan 怎么用
 
@@ -59,8 +59,6 @@ P_n/
 - P11–P13 → Aggregation / Join / Volcano 风格 Executor
 - P15–P16 → Optimizer rules
 - P18–P22 → LockManager、MVCC / UndoLog、WAL、Recovery
-
-本地 BusTub 在 [`bustub/`](bustub/)。构建与作业说明以该目录内官方 README 为准。
 
 ## 学习节奏建议
 
