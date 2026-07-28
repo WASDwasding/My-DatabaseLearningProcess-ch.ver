@@ -64,8 +64,6 @@ P_n/
 ```text
 Code/
 ├── README.md
-├── p1_relalg/
-├── p2_sql_expr/
 ├── p3_page/
 ├── p4_buffer_pool/
 ├── p5_append_only/
